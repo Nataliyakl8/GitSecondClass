@@ -4,5 +4,7 @@ public class GitClass3 {
         System.out.println("new branch ");
         System.out.println("master changes");
 
+        System.out.println("this is modified ");
+
     }
 }
